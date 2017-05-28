@@ -77,20 +77,20 @@
       <title><![CDATA[英雄联盟LOL客户端登录界面动画-超强合集]]></title>
       <url>http://bilibilims.top/2017/05/19/Game/lol/Login.interface.Video.BGM/</url>
       <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><h1 id="电玩阿狸主题登录音乐-amp-视频"><a href="#电玩阿狸主题登录音乐-amp-视频" class="headerlink" title="电玩阿狸主题登录音乐&amp;视频"></a>电玩阿狸主题登录音乐&amp;视频</h1>
-			<div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"电玩阿狸主题 - 介绍","author":"英雄联盟","url":"http://dwz.cn/5Z1QiK","pic":"http://t.cn/RanzEQo"},{"title":"电玩阿狸主题 - 循环","author":"英雄联盟","url":" http://dwz.cn/5Z1RNx","pic":"http://t.cn/RanzEQo"}]};
-				options.element = document.getElementById("aplayer9");
+				options.element = document.getElementById("aplayer1");
 				new APlayer(options);
 			</script>
 
 		
 <div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://t.cn/RanzDgg","pic":"http://t.cn/RanZbE6"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo","addition":["https://dplayer.daoapp.io/bilibili?aid=4157142"]}});</script>
 <h1 id="2014-愚人节"><a href="#2014-愚人节" class="headerlink" title="2014 愚人节"></a>2014 愚人节</h1>
-			<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"LoginScreenIntro.mp3","author":"英雄联盟","url":"https://coding.net/u/aaaol/p/lol.login/git/raw/master/loginAprilfools2014/music/LoginScreenIntro.mp3","pic":"http://t.cn/RanzEQo"},{"title":"LoginScreenLoop.mp3","author":"英雄联盟","url":"https://coding.net/u/aaaol/p/lol.login/git/raw/master/loginAprilfools2014/music/LoginScreenLoop.mp3","pic":"http://t.cn/RanzEQo"}]};
-				options.element = document.getElementById("aplayer10");
+				options.element = document.getElementById("aplayer2");
 				new APlayer(options);
 			</script>
 
@@ -213,10 +213,10 @@
 <hr>
 <h2 id="BGM大全-老版本BGM"><a href="#BGM大全-老版本BGM" class="headerlink" title="BGM大全 - 老版本BGM"></a>BGM大全 - 老版本BGM</h2><h2 id="gt-这里放着一些老版本的音乐60版本也有！"><a href="#gt-这里放着一些老版本的音乐60版本也有！" class="headerlink" title="&gt; 这里放着一些老版本的音乐60版本也有！"></a>&gt; 这里放着一些老版本的音乐60版本也有！</h2><h3 id="老版本BGM-老版频道选择"><a href="#老版本BGM-老版频道选择" class="headerlink" title="老版本BGM - 老版频道选择"></a>老版本BGM - 老版频道选择</h3><blockquote>
 <p>老版赫顿玛尔<br>老版赛丽亚旅馆<br>老版阿法利亚营地<br>老版西海岸<br>斯顿雪域<br>月光酒馆<br>艾尔文防线<br>市政厅（斯卡迪女王处）<br>下载地址：<a href="http://yun.baidu.com/s/1nt2ZaFv" target="_blank" rel="external">http://yun.baidu.com/s/1nt2ZaFv</a><br>
-			<div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"老版赛丽亚旅馆","author":"地下城与勇士","url":"http://dwz.cn/5WLC3D","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"老版阿法利亚营地","author":"地下城与勇士","url":" http://dwz.cn/5WLIRv","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"老版频道选择","author":"地下城与勇士","url":"http://dwz.cn/5WLZ1a","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"艾尔文防线","author":"地下城与勇士","url":"http://dwz.cn/5WM037","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"老版赫顿玛尔","author":"地下城与勇士","url":"http://dwz.cn/5WM0jk","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"斯顿雪域","author":"地下城与勇士","url":"http://dwz.cn/5WM1Cu","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"月光酒馆","author":"地下城与勇士","url":"http://dwz.cn/5WM27o","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"老版西海岸","author":"地下城与勇士","url":"http://dwz.cn/5WM36m","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"市政厅（斯卡迪女王处）","author":"地下城与勇士","url":"http://dwz.cn/5WMbCW","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer1");
+				options.element = document.getElementById("aplayer3");
 				new APlayer(options);
 			</script>
 
@@ -225,10 +225,10 @@
 <hr>
 <h3 id="老版本BGM-格兰之森-赫顿玛尔-洛兰…"><a href="#老版本BGM-格兰之森-赫顿玛尔-洛兰…" class="headerlink" title="老版本BGM - 格兰之森.赫顿玛尔.洛兰…"></a>老版本BGM - 格兰之森.赫顿玛尔.洛兰…</h3><blockquote>
 <p>ACT.1—ACT.4赫顿玛尔<br>ACT.1—ACT.4赛丽亚旅馆<br>ACT.1—ACT.4阿法利亚营地<br>ACT.1—ACT.4西海岸<br>蜘蛛洞穴boss＆老版PK场<br>老版格兰之森<br>老版洛兰<br>天空之海浅海<br>下载地址：<a href="http://yun.baidu.com/s/1bnw7N6f" target="_blank" rel="external">http://yun.baidu.com/s/1bnw7N6f</a><br>
-			<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"老版格兰之森","author":"地下城与勇士","url":"http://dwz.cn/5WHUig","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"亚蒙上下层","author":"地下城与勇士","url":" http://dwz.cn/5WMeGG","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"天空之海浅海","author":"地下城与勇士","url":"http://dwz.cn/5WMfGR","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"（阿法利亚营地ACT.1—ACT.4）背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMguD","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"（西海岸ACT.1—ACT.4）背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMhBL","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(赫顿玛尔ACT.1—ACT.4)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMiRq","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(赛丽亚旅馆ACT.1-ACT.4)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMj63","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(蜘蛛洞穴BOSS--艾克洛索＆老版PK场)背景音乐","author":"地下城与勇士","url":" http://dwz.cn/5WMkrS","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"精灵之森＆老版洛兰","author":"地下城与勇士","url":"http://dwz.cn/5WMm9R","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer2");
+				options.element = document.getElementById("aplayer4");
 				new APlayer(options);
 			</script>
 
@@ -237,10 +237,10 @@
 <hr>
 <h3 id="老版本BGM-第二脊椎、神殿外围（含boss）"><a href="#老版本BGM-第二脊椎、神殿外围（含boss）" class="headerlink" title="老版本BGM - 第二脊椎、神殿外围（含boss）"></a>老版本BGM - 第二脊椎、神殿外围（含boss）</h3><blockquote>
 <p>第二脊椎、神殿外围（含boss）<br>下载地址：<a href="http://pan.baidu.com/s/1jG64N5O" target="_blank" rel="external">http://pan.baidu.com/s/1jG64N5O</a><br>
-			<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"神殿外围","author":"地下城与勇士","url":"http://dwz.cn/5WMreY","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"神殿外围boss","author":"地下城与勇士","url":" http://dwz.cn/5WMrMq","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"第二脊椎","author":"地下城与勇士","url":"http://dwz.cn/5WMt0U","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"第二脊椎boss","author":"地下城与勇士","url":"http://dwz.cn/5WMtd5","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer3");
+				options.element = document.getElementById("aplayer5");
 				new APlayer(options);
 			</script>
 
@@ -250,10 +250,10 @@
 <h3 id="老版本BGM-怪物攻城"><a href="#老版本BGM-怪物攻城" class="headerlink" title="老版本BGM - 怪物攻城"></a>老版本BGM - 怪物攻城</h3><blockquote>
 <p>怪物攻城</p>
 <p>攻城角色失败<br>押镖（开始阶段＆抵达终点）<br>押镖（途中）<br>下载地址：<a href="http://yun.baidu.com/s/1ntNXKE1" target="_blank" rel="external">http://yun.baidu.com/s/1ntNXKE1</a><br>
-			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"押镖（开始阶段＆抵达终点）","author":"地下城与勇士","url":"http://dwz.cn/5WMx5M","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"押镖（途中）","author":"地下城与勇士","url":" http://dwz.cn/5WMxIb","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"攻城角色失败","author":"地下城与勇士","url":"http://dwz.cn/5WMypq","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"怪物攻城","author":"地下城与勇士","url":"http://dwz.cn/5WMz5H","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer4");
+				options.element = document.getElementById("aplayer6");
 				new APlayer(options);
 			</script>
 
@@ -262,10 +262,10 @@
 <hr>
 <h3 id="老版本BGM-布万加的修炼场、月光酒馆地下城、山脊（含boss）"><a href="#老版本BGM-布万加的修炼场、月光酒馆地下城、山脊（含boss）" class="headerlink" title="老版本BGM - 布万加的修炼场、月光酒馆地下城、山脊（含boss）"></a>老版本BGM - 布万加的修炼场、月光酒馆地下城、山脊（含boss）</h3><blockquote>
 <p>布万加的修炼场、月光酒馆地下城、山脊（含boss）<br>下载地址：<a href="http://pan.baidu.com/s/11v0BG" target="_blank" rel="external">http://pan.baidu.com/s/11v0BG</a><br>
-			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"山脊","author":"地下城与勇士","url":"http://dwz.cn/5WMGLY","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"山脊boss","author":"地下城与勇士","url":" http://dwz.cn/5WMHld","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"布万加的修炼场","author":"地下城与勇士","url":"http://dwz.cn/5WMJ2n","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"布万加的修炼场boss","author":"地下城与勇士","url":"http://dwz.cn/5WMJPW","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"月光酒馆地下城","author":"地下城与勇士","url":"http://dwz.cn/5WMLrX","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"月光酒馆地下城boss","author":"地下城与勇士","url":"http://dwz.cn/5WMN7r","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer5");
+				options.element = document.getElementById("aplayer7");
 				new APlayer(options);
 			</script>
 
@@ -275,10 +275,10 @@
 <h3 id="老版本BGM-冰心少年-龙人-堕落"><a href="#老版本BGM-冰心少年-龙人-堕落" class="headerlink" title="老版本BGM - 冰心少年.龙人.堕落"></a>老版本BGM - 冰心少年.龙人.堕落</h3><blockquote>
 <p>龙人之塔<br>石巨人塔<br>冰心少年</p>
 <p>堕落的盗贼<br>堕落的盗贼boss<br>迷乱之村哈穆林<br>下载地址：<a href="http://yun.baidu.com/s/1gdxL9bP" target="_blank" rel="external">http://yun.baidu.com/s/1gdxL9bP</a><br>
-			<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"(冰心少年)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMScK","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(堕落的盗贼)背景音乐","author":"地下城与勇士","url":" http://dwz.cn/5WMTgi","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(石巨人塔)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMUKc","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(迷乱之村“哈穆林”)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMVq6","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"(龙人之塔)背景音乐","author":"地下城与勇士","url":"http://dwz.cn/5WMWDg","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"堕落的盗贼boss","author":"地下城与勇士","url":"http://dwz.cn/5WMXcu","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer6");
+				options.element = document.getElementById("aplayer8");
 				new APlayer(options);
 			</script>
 
@@ -287,10 +287,10 @@
 <hr>
 <h3 id="老版本BGM-GBL阿拉德分部boss"><a href="#老版本BGM-GBL阿拉德分部boss" class="headerlink" title="老版本BGM - GBL阿拉德分部boss"></a>老版本BGM - GBL阿拉德分部boss</h3><blockquote>
 <p>GBL阿拉德分部、研究所、孵化场（含boss）<br>下载地址：<a href="http://pan.baidu.com/s/1dDs1QKD" target="_blank" rel="external">http://pan.baidu.com/s/1dDs1QKD</a><br>
-			<div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"GBL阿拉德分部boss","author":"地下城与勇士","url":"http://dwz.cn/5WT9Wk","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"GBL孵化场boss","author":"地下城与勇士","url":" http://dwz.cn/5WTagv","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"GBL孵化场.","author":"地下城与勇士","url":"http://dwz.cn/5WTbfr","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"GBL研究所boss","author":"地下城与勇士","url":"http://dwz.cn/5WTbXS","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"GBL研究所","author":"地下城与勇士","url":"http://dwz.cn/5WTcy1","pic":"http://t.cn/RaWL2Px","lrc":"*"},{"title":"GBL阿拉德分部","author":"地下城与勇士","url":"http://dwz.cn/5WTdwJ","pic":"http://t.cn/RaWL2Px","lrc":"*"}]};
-				options.element = document.getElementById("aplayer7");
+				options.element = document.getElementById("aplayer9");
 				new APlayer(options);
 			</script>
 
@@ -302,10 +302,10 @@
 <h3 id="新旧-银色村庄地区"><a href="#新旧-银色村庄地区" class="headerlink" title="新旧 - 银色村庄地区"></a>新旧 - 银色村庄地区</h3><blockquote>
 <p>银色村庄地区</p>
 <p>【亚诺法森林】<br>luteon——炽晶森林/冰晶森林<br>luteon_boss——炽晶森林/冰晶森林boss<br>glassfey——水晶矿脉/被污染的水晶矿脉<br>glassfey_boss——水晶矿脉/被污染的水晶矿脉boss<br>ringwood_prison——幽冥监狱<br>ringwood_prison_boss——幽冥监狱boss<br>prison_underground——幽冥监狱下层<br>prison_underground_boss——幽冥监狱下层boss<br>whiteland——遗忘之森<br>whitenight_boss——遗忘之森boss<br>下载地址：<a href="http://yun.baidu.com/s/1gdHyz0R" target="_blank" rel="external">http://yun.baidu.com/s/1gdHyz0R</a><br>暂时不更新测试直链是否失效！<br>
-			<div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"水晶矿脉＆被污染的水晶矿脉","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/glassfey.ogg%25E2%2580%2594%25E2%2580%2594%25E6%25B0%25B4%25E6%2599%25B6%25E7%259F%25BF%25E8%2584%2589%25EF%25BC%2586%25E8%25A2%25AB%25E6%25B1%25A1%25E6%259F%2593%25E7%259A%2584%25E6%25B0%25B4%25E6%2599%25B6%25E7%259F%25BF%25E8%2584%2589.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"水晶矿脉＆被污染的水晶矿脉boss","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/glassfey_boss.ogg%25E2%2580%2594%25E2%2580%2594%25E6%25B0%25B4%25E6%2599%25B6%25E7%259F%25BF%25E8%2584%2589%25EF%25BC%2586%25E8%25A2%25AB%25E6%25B1%25A1%25E6%259F%2593%25E7%259A%2584%25E6%25B0%25B4%25E6%2599%25B6%25E7%259F%25BF%25E8%2584%2589boss.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"炽晶森林＆冰晶森林","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/luteon.ogg%25E2%2580%2594%25E2%2580%2594%25E7%2582%25BD%25E6%2599%25B6%25E6%25A3%25AE%25E6%259E%2597%25EF%25BC%2586%25E5%2586%25B0%25E6%2599%25B6%25E6%25A3%25AE%25E6%259E%2597.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"炽晶森林＆冰晶森林boss","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/luteon_boss.ogg%25E2%2580%2594%25E2%2580%2594%25E7%2582%25BD%25E6%2599%25B6%25E6%25A3%25AE%25E6%259E%2597%25EF%25BC%2586%25E5%2586%25B0%25E6%2599%25B6%25E6%25A3%25AE%25E6%259E%2597boss.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"幽冥监狱下层","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/prison_underground.ogg%25E2%2580%2594%25E2%2580%2594%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"幽冥监狱下层boss","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/prison_underground_boss.ogg%25E2%2580%2594%25E2%2580%2594%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"幽冥监狱","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/ringwood_prison.ogg%25E2%2580%2594%25E2%2580%2594%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"遗忘之森","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/whiteland.ogg%25E2%2580%2594%25E2%2580%2594%25E9%2581%2597%25E5%25BF%2598%25E4%25B9%258B%25E6%25A3%25AE.ogg","pic":"http://t.cn/RaWL2Px"},{"title":"遗忘之森boss","author":"地下城与勇士","url":"https://coding.net/u/aaaol/p/DNFmusic/git/raw/master/1.%25E9%2593%25B6%25E8%2589%25B2%25E6%259D%2591%25E5%25BA%2584%25E5%259C%25B0%25E5%258C%25BA.%25E4%25BA%259A%25E8%25AF%25BA%25E6%25B3%2595%25E6%25A3%25AE%25E6%259E%2597.%25E5%25B9%25BD%25E5%2586%25A5%25E7%259B%2591%25E7%258B%25B1%25E4%25B8%258B%25E5%25B1%2582boss%25E7%25AD%2589/whitenight_boss.ogg%25E2%2580%2594%25E2%2580%2594%25E9%2581%2597%25E5%25BF%2598%25E4%25B9%258B%25E6%25A3%25AEboss.ogg","pic":"http://t.cn/RaWL2Px"}]};
-				options.element = document.getElementById("aplayer8");
+				options.element = document.getElementById("aplayer10");
 				new APlayer(options);
 			</script>
 
@@ -1072,9 +1072,9 @@ deb [arch=all,arm] http://mirrors.tuna.tsinghua.edu.cn/termux stable main
         
         <tags>
             
-            <tag> 后宫 </tag>
-            
             <tag> 日常 </tag>
+            
+            <tag> 后宫 </tag>
             
             <tag> 治愈 </tag>
             
@@ -1225,13 +1225,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
         
         <tags>
             
-            <tag> 奇幻 </tag>
-            
-            <tag> 战斗 </tag>
-            
             <tag> RWBY </tag>
             
             <tag> 2013年7月开播 </tag>
+            
+            <tag> 奇幻 </tag>
+            
+            <tag> 战斗 </tag>
             
         </tags>
         
@@ -1268,11 +1268,11 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
             
             <tag> 奇幻 </tag>
             
+            <tag> 战斗 </tag>
+            
             <tag> Re：从零开始的异世界生活 </tag>
             
             <tag> 2016年4月开播 </tag>
-            
-            <tag> 战斗 </tag>
             
             <tag> 励志 </tag>
             
@@ -1345,13 +1345,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
         
         <tags>
             
+            <tag> 奇幻 </tag>
+            
             <tag> 天降之物 </tag>
             
             <tag> 2009年10月开播 </tag>
             
             <tag> 后宫 </tag>
-            
-            <tag> 奇幻 </tag>
             
         </tags>
         
@@ -1382,9 +1382,9 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
         
         <tags>
             
-            <tag> 后宫 </tag>
-            
             <tag> 战斗 </tag>
+            
+            <tag> 后宫 </tag>
             
             <tag> 2014年4月开播 </tag>
             
@@ -1422,13 +1422,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
             
             <tag> 日常 </tag>
             
-            <tag> 2011年4月开播 </tag>
-            
             <tag> 搞笑 </tag>
             
             <tag> 萌系 </tag>
             
             <tag> 漫改 </tag>
+            
+            <tag> 2011年4月开播 </tag>
             
         </tags>
         
@@ -1570,12 +1570,12 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
     <entry>
       <title><![CDATA[表格演示]]></title>
       <url>http://bilibilims.top/2017/04/24/%E6%9D%82%E9%A1%B9%E5%85%B6%E5%AE%83/%E8%A1%A8%E6%A0%BC%E6%B5%8B%E8%AF%95/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>表格例子演示<br><a id="more"></a><br>| 动漫名称 | 开播日期 | 动漫集数 | 补番结束日期 | 辅助空间 | 稳定性 |<br>|:—–:|:—–:|:—–:|:—–:|:—–:|:—–:|<br>| 冒泡排序 | O(n2)           | O(nlogn) | O(n2)    | O(1)          | 稳定   |<br>| 简单选择 | O(n2)           | O(n2)    | O(n2)    | O(1)          | 稳定   |<br>| 直接插入 | O(n2)           | O(n)     | O(n2)    | O(1)          | 稳定   |<br>| 希尔排序 | O(nlogn)~O(n2)  | O(n^1.3) | O(n2)    | O(1)          | 不稳定 |<br>| 堆排序   | O(nlogn)        | O(nlogn) | O(nlogn) | O(1)          | 不稳定 |<br>| 归并排序 | O(nlogn)        | O(nlogn) | O(nlogn) | O(n)          | 不稳定 |<br>| 快速排序 | O(nlogn)        | O(nlogn) | O(n2)    | O(nlogn)~O(n) | 不稳定 |<br><!-- more --><br><div id="echarts2606" style="width: 100%;height: 800px;margin: 0 auto"></div>
+      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>表格例子演示<br><a id="more"></a><br>| 动漫名称 | 开播日期 | 动漫集数 | 补番结束日期 | 辅助空间 | 稳定性 |<br>|:—–:|:—–:|:—–:|:—–:|:—–:|:—–:|<br>| 冒泡排序 | O(n2)           | O(nlogn) | O(n2)    | O(1)          | 稳定   |<br>| 简单选择 | O(n2)           | O(n2)    | O(n2)    | O(1)          | 稳定   |<br>| 直接插入 | O(n2)           | O(n)     | O(n2)    | O(1)          | 稳定   |<br>| 希尔排序 | O(nlogn)~O(n2)  | O(n^1.3) | O(n2)    | O(1)          | 不稳定 |<br>| 堆排序   | O(nlogn)        | O(nlogn) | O(nlogn) | O(1)          | 不稳定 |<br>| 归并排序 | O(nlogn)        | O(nlogn) | O(nlogn) | O(n)          | 不稳定 |<br>| 快速排序 | O(nlogn)        | O(nlogn) | O(n2)    | O(nlogn)~O(n) | 不稳定 |<br><!-- more --><br><div id="echarts657" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="http://echarts.baidu.com/dist/echarts.common.min.js"></script>
 
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts2606'));
+        var myChart = echarts.init(document.getElementById('echarts657'));
         // 指定图表的配置项和数据
         var option = {
     tooltip: {
@@ -1865,11 +1865,11 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
         
         <tags>
             
-            <tag> 后宫 </tag>
-            
             <tag> 校园 </tag>
             
             <tag> 恋爱 </tag>
+            
+            <tag> 后宫 </tag>
             
             <tag> 樱花庄的宠物女孩 </tag>
             
@@ -1947,9 +1947,9 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
             
             <tag> 日常 </tag>
             
-            <tag> 漫改 </tag>
-            
             <tag> 百合 </tag>
+            
+            <tag> 漫改 </tag>
             
             <tag> 珈百璃的堕落 </tag>
             
@@ -1992,13 +1992,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
             
             <tag> 日常 </tag>
             
+            <tag> 百合 </tag>
+            
             <tag> 搞笑 </tag>
             
             <tag> 萌系 </tag>
             
             <tag> 漫改 </tag>
-            
-            <tag> 百合 </tag>
             
         </tags>
         
@@ -2800,16 +2800,16 @@ git config --global user.email &quot;123456@qq.com&quot;
   
     
     <entry>
-      <title></title>
-      <url>http://bilibilims.top/categories/index.html</url>
-      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于我的一些事情]]></title>
       <url>http://bilibilims.top/about/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>我喜欢上[bilibili]（<a href="http://www.bilibili.com）一个半宅把喜欢看动漫。" target="_blank" rel="external">http://www.bilibili.com）一个半宅把喜欢看动漫。</a><br>播放器用<code>bilibili</code>、<code>嘀哩嘀哩</code><br>看过无数的番 已经数不清了<br>各种杂七杂八的技术都学了一点 统统没有学精。</p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://bilibilims.top/categories/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
     <entry>
