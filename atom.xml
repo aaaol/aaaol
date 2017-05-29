@@ -24,7 +24,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;strong&gt;《巧克力与香子兰》是一款由NEKO WORKs公司制作、S
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;strong&gt;《巧克力与香子兰》是一款由NEKO WORKs公司制作、S
     
     </summary>
     
@@ -84,7 +84,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;电玩阿狸主题登录音乐-amp-视频&quot;&gt;&lt;a href=&quot;#电玩阿
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;电玩阿狸主题登录音乐-amp-视频&quot;&gt;&lt;a href=&quot;#电玩阿
     
     </summary>
     
@@ -212,7 +212,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;注意-说明&quot;&gt;&lt;a href=&quot;#注意-说明&quot; class=&quot;h
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;注意-说明&quot;&gt;&lt;a href=&quot;#注意-说明&quot; class=&quot;h
     
     </summary>
     
@@ -358,9 +358,9 @@
       <category term="追番补番" scheme="http://bilibilims.top/categories/%E8%BF%BD%E7%95%AA%E8%A1%A5%E7%95%AA/"/>
     
     
-      <category term="日常" scheme="http://bilibilims.top/tags/%E6%97%A5%E5%B8%B8/"/>
-    
       <category term="后宫" scheme="http://bilibilims.top/tags/%E5%90%8E%E5%AE%AB/"/>
+    
+      <category term="日常" scheme="http://bilibilims.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
       <category term="治愈" scheme="http://bilibilims.top/tags/%E6%B2%BB%E6%84%88/"/>
     
