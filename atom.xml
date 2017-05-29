@@ -24,7 +24,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;strong&gt;《巧克力与香子兰》是一款由NEKO WORKs公司制作、S
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;strong&gt;《巧克力与香子兰》是一款由NEKO WORKs公司制作、S
     
     </summary>
     
@@ -84,7 +84,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;电玩阿狸主题登录音乐-amp-视频&quot;&gt;&lt;a href=&quot;#电玩阿
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;电玩阿狸主题登录音乐-amp-视频&quot;&gt;&lt;a href=&quot;#电玩阿
     
     </summary>
     
@@ -212,7 +212,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;注意-说明&quot;&gt;&lt;a href=&quot;#注意-说明&quot; class=&quot;h
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;注意-说明&quot;&gt;&lt;a href=&quot;#注意-说明&quot; class=&quot;h
     
     </summary>
     
@@ -358,9 +358,9 @@
       <category term="追番补番" scheme="http://bilibilims.top/categories/%E8%BF%BD%E7%95%AA%E8%A1%A5%E7%95%AA/"/>
     
     
-      <category term="后宫" scheme="http://bilibilims.top/tags/%E5%90%8E%E5%AE%AB/"/>
-    
       <category term="日常" scheme="http://bilibilims.top/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="后宫" scheme="http://bilibilims.top/tags/%E5%90%8E%E5%AE%AB/"/>
     
       <category term="治愈" scheme="http://bilibilims.top/tags/%E6%B2%BB%E6%84%88/"/>
     
@@ -485,13 +485,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
       <category term="追番补番" scheme="http://bilibilims.top/categories/%E8%BF%BD%E7%95%AA%E8%A1%A5%E7%95%AA/"/>
     
     
-      <category term="RWBY" scheme="http://bilibilims.top/tags/RWBY/"/>
-    
-      <category term="2013年7月开播" scheme="http://bilibilims.top/tags/2013%E5%B9%B47%E6%9C%88%E5%BC%80%E6%92%AD/"/>
-    
       <category term="奇幻" scheme="http://bilibilims.top/tags/%E5%A5%87%E5%B9%BB/"/>
     
       <category term="战斗" scheme="http://bilibilims.top/tags/%E6%88%98%E6%96%97/"/>
+    
+      <category term="RWBY" scheme="http://bilibilims.top/tags/RWBY/"/>
+    
+      <category term="2013年7月开播" scheme="http://bilibilims.top/tags/2013%E5%B9%B47%E6%9C%88%E5%BC%80%E6%92%AD/"/>
     
   </entry>
   
@@ -516,13 +516,13 @@ RWBY是红白黑黄的开头大写字母，代表的是红、白、黑、黄四�
       <category term="追番补番" scheme="http://bilibilims.top/categories/%E8%BF%BD%E7%95%AA%E8%A1%A5%E7%95%AA/"/>
     
     
-      <category term="奇幻" scheme="http://bilibilims.top/tags/%E5%A5%87%E5%B9%BB/"/>
-    
-      <category term="战斗" scheme="http://bilibilims.top/tags/%E6%88%98%E6%96%97/"/>
-    
       <category term="Re：从零开始的异世界生活" scheme="http://bilibilims.top/tags/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB/"/>
     
       <category term="2016年4月开播" scheme="http://bilibilims.top/tags/2016%E5%B9%B44%E6%9C%88%E5%BC%80%E6%92%AD/"/>
+    
+      <category term="奇幻" scheme="http://bilibilims.top/tags/%E5%A5%87%E5%B9%BB/"/>
+    
+      <category term="战斗" scheme="http://bilibilims.top/tags/%E6%88%98%E6%96%97/"/>
     
       <category term="励志" scheme="http://bilibilims.top/tags/%E5%8A%B1%E5%BF%97/"/>
     

@@ -166,13 +166,13 @@
   #scheme-Paradox .sidebar_archives-count,
   #scheme-Paradox .sidebar-colored .sidebar-header,
   #scheme-Paradox .sidebar-colored .sidebar-badge{
-    background-color: #0097A7 !important;
+    background-color: #FF69B4 !important;
   }
 
   /* Sidebar User Drop Down Menu Text Color */
   #scheme-Paradox .sidebar-colored .sidebar-nav>.dropdown>.dropdown-menu>li>a:hover,
   #scheme-Paradox .sidebar-colored .sidebar-nav>.dropdown>.dropdown-menu>li>a:focus {
-    color: #0097A7 !important;
+    color: #FF69B4 !important;
   }
 
   #post_entry-right-info,
@@ -185,7 +185,7 @@
   .sidebar-colored .sidebar-nav > .open > a:hover,
   .sidebar-colored .sidebar-nav > .open > a:focus,
   #ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-head a {
-    color: #0097A7 !important;
+    color: #FF69B4 !important;
   }
 
   .toTop {
@@ -485,7 +485,7 @@
                 <!-- Post Content -->
                 <div id="post-content" class="mdl-color-text--grey-700 mdl-card__supporting-text fade out">
     
-        <script src="/assets/js/APlayer.min.js"> </script><script src="/assets/js/DPlayer.min.js"> </script><p>打开之后输入以下命令安装必要环境。<br><code>apt update</code><br><code>apt install python2</code> //谨记，上面一条是python2 而不是python<br><code>apt install git</code><br><a id="more"></a><br><code>git clone http://git.clonehttps://github.com/sqlmapproject/sqlmap.git sqlmap</code>  //克隆sqlmap到当前目录下的sqlmap目录<br>     clone 完成后输入 ls 可以看到当前目录下多了一个sqlmap目录<br><code>cd sqlmap</code> //进入sqlmap目录<br><code>python2 sqlmap.py</code>  //运行sqlmap~<br><img src="http://wobushi.cn/wp-content/uploads/2016/08/5.jpg" alt=""><br>     但是每次都输入cd sqlmap   python2 sqlmap.py 非常不方便~</p>
+        <script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>打开之后输入以下命令安装必要环境。<br><code>apt update</code><br><code>apt install python2</code> //谨记，上面一条是python2 而不是python<br><code>apt install git</code><br><a id="more"></a><br><code>git clone http://git.clonehttps://github.com/sqlmapproject/sqlmap.git sqlmap</code>  //克隆sqlmap到当前目录下的sqlmap目录<br>     clone 完成后输入 ls 可以看到当前目录下多了一个sqlmap目录<br><code>cd sqlmap</code> //进入sqlmap目录<br><code>python2 sqlmap.py</code>  //运行sqlmap~<br><img src="http://wobushi.cn/wp-content/uploads/2016/08/5.jpg" alt=""><br>     但是每次都输入cd sqlmap   python2 sqlmap.py 非常不方便~</p>
 <p>恰巧termux也支持zsh 的包~ zsh配置文件可以帮忙我们把命令缩短，比如我们直接输入sqlmap 就等同于输入 python2 /路径/sqlmap.py</p>
 <h1 id="安装zsh"><a href="#安装zsh" class="headerlink" title="安装zsh"></a>安装zsh</h1><p><code>apt install zsh</code><br>安装<code>oh-my-zsh</code></p>
 <p><code>wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh .oh-my-zsh</code><br><code>cp .oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc</code> //然后输入<br><code>cd /data/data/com.termux/files/usr/etc/bin/</code><br><code>chsh -s /bin/zsh</code><br>termux开一个新窗口就可以看到效果～变成绿色箭头 如图<br>安卓termux运行sqlmap和termux使用技巧<br>说明chsh -s /bin/zsh已经生效了~~</p>
