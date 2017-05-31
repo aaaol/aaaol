@@ -362,7 +362,7 @@
 
 
 
-
+                
                 
                     <!-- Paradox Post Info -->
                     <div class="mdl-color-text--grey-700 mdl-card__supporting-text meta">
@@ -504,7 +504,58 @@
     
 </div>
 
+                <link rel="stylesheet" href="/plugins/QPlayer/css/player.css">
 
+<div id="QPlayer">
+<div id="pContent">
+	<div id="player">
+		<span class="cover"></span>
+		<div class="ctrl">
+			<div class="musicTag marquee">
+				<strong>Title</strong>
+				 <span> - </span>
+				<span class="artist">Artist</span>
+			</div>
+			<div class="progress">
+				<div class="timer left">0:00</div>
+				<div class="contr">
+					<div class="rewind icon"></div>
+					<div class="playback icon"></div>
+					<div class="fastforward icon"></div>
+				</div>
+				<div class="right">
+					<div class="liebiao icon"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ssBtn">
+	        <div class="adf"></div>
+    </div>
+</div>
+<ol id="playlist"></ol>
+</div>
+
+<script src="/plugins/QPlayer/js/jquery.min.js"></script>
+<script src="/plugins/QPlayer/js/jquery.marquee.min.js"></script>
+
+<script>
+	var	playlist = [
+{title:"如我西沉",artist:"裂天 - 特曼 - 小魂",mp3:"http://isure.stream.qqmusic.qq.com/C100003Qclke2iBiIE.m4a?fromtag=32",cover:"http://p1.music.126.net/lAFyp6ON5as3hxQ_6WMGuA==/2881819978795631.jpg?param=106x106",},
+];
+  var isRotate = true;
+  var autoplay = false;
+</script>
+<script src="/plugins/QPlayer/js/player.js"></script>
+<script>
+
+function bgChange(){
+	var lis= $('.lib');
+	for(var i=0; i<lis.length; i+=2)
+	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
+}
+window.onload = bgChange;
+</script>
                 
                 <!-- Post Comments -->
                 
@@ -564,59 +615,6 @@ window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="tex
     </div>
 	
 
-<link rel="stylesheet" href="/plugins/QPlayer/css/player.css">
-
-<div id="QPlayer">
-<div id="pContent">
-	<div id="player">
-		<span class="cover"></span>
-		<div class="ctrl">
-			<div class="musicTag marquee">
-				<strong>Title</strong>
-				 <span> - </span>
-				<span class="artist">Artist</span>
-			</div>
-			<div class="progress">
-				<div class="timer left">0:00</div>
-				<div class="contr">
-					<div class="rewind icon"></div>
-					<div class="playback icon"></div>
-					<div class="fastforward icon"></div>
-				</div>
-				<div class="right">
-					<div class="liebiao icon"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="ssBtn">
-	        <div class="adf"></div>
-    </div>
-</div>
-<ol id="playlist"></ol>
-</div>
-
-<script src="/plugins/QPlayer/js/jquery.min.js"></script>
-<script src="/plugins/QPlayer/js/jquery.marquee.min.js"></script>
-
-<script>
-	var	playlist = [
-{title:"如我西沉",artist:"裂天 - 特曼 - 小魂",mp3:"http://m10.music.126.net/20170531185306/c9f8771038bad608d01e69b530bcc255/ymusic/39fd/2ec7/ad38/0e8ff57b27902a1c7e994ff3ffe32e09.mp3",cover:"http://p4.music.126.net/7VJn16zrictuj5kdfW1qHA==/3264450024433083.jpg?param=106x106",},
-{title:"おちゃめ機能",artist:"鹿乃",mp3:"http://m10.music.126.net/20170531185918/59d8efe1016f82f100fc27d552bf0978/ymusic/1eea/9809/36ab/c6c98172f0040e7e2fa8788aa7381ea7.mp3",cover:"http://p4.music.126.net/7VJn16zrictuj5kdfW1qHA==/3264450024433083.jpg?param=106x106",},
-];
-  var isRotate = true;
-  var autoplay = false;
-</script>
-<script src="/plugins/QPlayer/js/player.js"></script>
-<script>
-
-function bgChange(){
-	var lis= $('.lib');
-	for(var i=0; i<lis.length; i+=2)
-	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
-}
-window.onload = bgChange;
-</script>
 
                     
                         <!-- Overlay For Active Sidebar -->
